@@ -1,0 +1,12 @@
+.InfoBox{
+    text-align: center;
+}
+.cardcontainer{
+    display:flex;
+    justify-content: center;
+  
+}
+
+.card2{
+    width:300px;
+}
